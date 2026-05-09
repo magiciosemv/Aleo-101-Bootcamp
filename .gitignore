@@ -1,0 +1,20 @@
+*.vscode
+.idea
+.DS_Store
+
+# Learn directory
+learn/**/node_modules/
+learn/**/.env
+learn/**/.env.local
+learn/**/.env.development.local
+learn/**/.env.test.local
+learn/**/.env.production.local
+learn/**/npm-debug.log*
+learn/**/yarn-debug.log*
+learn/**/yarn-error.log*
+learn/**/.next/
+learn/**/build/
+learn/**/dist/
+learn/**/.cache/
+learn/**/coverage/
+
