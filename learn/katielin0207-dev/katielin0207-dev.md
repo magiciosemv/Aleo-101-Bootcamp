@@ -1,0 +1,6 @@
+- 昵称：KatieLin  
+- GitHub 用户名：katielin0207-dev  
+- 微信：KatieLinXx
+- Aleo 钱包地址：FbVe1Xm1T4nJQV88vh5hr6WEwszK4XgtNZxRcicBg7SB  
+- 技术栈：Solidity, Python  
+- 自我介绍：自由职业，AI学习中，参加过4次黑客松，拿过Dev3Pack全球黑客松中国赛区第一名，因为我们的项目涉及零知识证明，所以想来学习。
